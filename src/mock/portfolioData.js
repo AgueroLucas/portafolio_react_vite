@@ -1,8 +1,8 @@
 // Mock data para el portfolio de Lucas Agüero
 
-import whatclickImg from './assets/whatclick.PNG';
-import wordpressImg from './assets/wordpress.PNG';
-import asolmenImg from './assets/Asolmen.PNG';
+import whatclickImg from '../assets/whatclick.PNG';
+import wordpressImg from '../assets/wordpress.PNG';
+import asolmenImg from '../assets/Asolmen.PNG';
 
 export const personalInfo = {
   name: "Lucas Agüero",
