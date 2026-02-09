@@ -7,7 +7,7 @@ const About = () => {
     {
       icon: Code2,
       title: 'Desarrollo Frontend',
-      description: 'Experiencia sólida en React y Angular'
+      description: 'Experiencia sólida en React, Angular y Python'
     },
     {
       icon: Users,
@@ -44,9 +44,7 @@ const About = () => {
               {personalInfo.profileDescription}
             </p>
             <p className="text-lg text-slate-700 leading-relaxed mb-6">
-              Mi experiencia incluye trabajo en consultoras de software como <span className="font-semibold text-slate-900">Kiura</span>,
-              donde he participado en proyectos para diversos clientes, y proyectos independientes donde he tenido
-              la oportunidad de gestionar el desarrollo completo desde el diseño hasta la implementación.
+              Actualmente, complemento esta experiencia profesional con mi formación en la UTN-FRM para seguir aportando soluciones técnicas innovadoras y eficientes.
             </p>
             <div className="flex items-center gap-2 text-slate-600">
               <span className="text-2xl">📍</span>

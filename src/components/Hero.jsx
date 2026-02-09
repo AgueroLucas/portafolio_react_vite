@@ -22,8 +22,8 @@ const Hero = () => {
               {personalInfo.title}
             </h2>
             <p className="text-lg text-slate-600 mb-8 max-w-xl mx-auto lg:mx-0">
-              Especializado en <span className="font-semibold text-slate-900">React</span> y{' '}
-              <span className="font-semibold text-slate-900">Angular</span>, creando interfaces web
+              Especializado en <span className="font-semibold text-slate-900">React</span>,{' '}
+              <span className="font-semibold text-slate-900">Angular</span> y <span className="font-semibold text-slate-900">Python</span>, creando interfaces web
               funcionales y atractivas con las mejores prácticas.
             </p>
 

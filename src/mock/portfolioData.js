@@ -10,7 +10,7 @@ export const personalInfo = {
   location: "Mendoza, Argentina",
   email: "lucas.ez.aguero@gmail.com",
   photo: "https://customer-assets.emergentagent.com/job_8d35622f-560a-495d-b924-3341061af263/artifacts/6zb95duo_fotoperfil%20s.jpg",
-  profileDescription: "Desarrollador Front-End con experiencia en React y Angular, apasionado por crear interfaces web funcionales y atractivas. Destaca por su compromiso con el aprendizaje continuo, capacidad para trabajar en equipo y aportar soluciones creativas. Ha trabajado tanto en proyectos internos como para clientes, participando activamente en decisiones de diseño, maquetación e integración con back-end.",
+  profileDescription: "Soy un Desarrollador Front-End con un perfil técnico sólido en React, Angular y Python. Mi trayectoria se divide entre el trabajo en consultoras como Kiura, donde aprendí a trabajar con clientes reales e integración de back-end, y mi etapa independiente, que me dio la autonomía para gestionar proyectos de punta a punta.",
   socialLinks: {
     linkedin: "https://www.linkedin.com/in/lucas-aguero-16447724b/",
     github: "https://github.com/AgueroLucas",
