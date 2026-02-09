@@ -1,5 +1,9 @@
 // Mock data para el portfolio de Lucas Agüero
 
+import whatclickImg from './assets/whatclick.PNG';
+import wordpressImg from './assets/wordpress.PNG';
+import asolmenImg from './assets/Asolmen.PNG';
+
 export const personalInfo = {
   name: "Lucas Agüero",
   title: "Desarrollador Front-End",
@@ -53,7 +57,7 @@ export const projects = [
     id: 1,
     title: "WhatClick",
     description: "Plataforma de comunicación web desarrollada con React 17-18. Maquetación de pantallas, integración con back-end y mantenimiento de código siguiendo buenas prácticas.",
-    image: "/src/assets/whatclick.PNG",
+    image: whatclickImg,
     technologies: ["React", "JavaScript", "HTML/CSS", "SCRUM", "VITE"],
     company: "Kiura",
     year: "2024",
@@ -63,7 +67,7 @@ export const projects = [
     id: 2,
     title: "Proyect Art",
     description: "Desarrollo y diseño de sitio web autogestionable utilizando WordPress. Personalización de temas, integración de plugins para funcionalidades específicas y optimización de SEO y velocidad de carga para mejorar la experiencia del usuario.",
-    image: "/src/assets/wordpress.PNG",
+    image: wordpressImg,
     technologies: ["WordPress", "CSS3", "HTML5", "SEO", "MySQL", "Elementor"],
     company: "Freelance / Personal",
     year: "2024",
@@ -73,7 +77,7 @@ export const projects = [
     id: 3,
     title: "Asolment Web App",
     description: "Aplicación web completa desarrollada con Angular 16. Diseño de interfaces UX/UI, maquetación responsiva e integración con back-end para gestión de datos.",
-    image: "/src/assets/Asolmen.PNG",
+    image: asolmenImg,
     technologies: ["Angular", "TypeScript", "HTML/CSS", "UX Design"],
     company: "Proyecto Independiente",
     year: "2024",
